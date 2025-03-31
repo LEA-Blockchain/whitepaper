@@ -1,4 +1,4 @@
-![LEA Logo](https://github.com/aaflux-llc/lea_test/blob/master/images/lea_logo_1000x500_light.jpg?raw=true)
+![LEA Logo](https://github.com/LEA-Blockchain/whitepaper/blob/main/images/lea_logo_1000x500_light.jpg?raw=true)
 
 Whitepaper
 
@@ -111,7 +111,7 @@ By enabling participants to stake their LeaCoins into various approved real-worl
 
 LEA Chain's ecosystem consists of three main participant groups, each playing a crucial role in ensuring the seamless operation and growth of the platform:
 
-![Participans](https://github.com/aaflux-llc/lea_test/blob/master/images/Participants.jpg?raw=true)
+![Participans](https://github.com/LEA-Blockchain/whitepaper/blob/main/images/Participants.jpg?raw=true)
 
 Figure 1 Main Participants in LEA Ecosystem
 
@@ -153,7 +153,7 @@ The LEA blockchain platform bridges Real-World Assets (RWA) with blockchain tech
 
 **How It Works**
 
-![Rough concept](https://github.com/aaflux-llc/lea_test/blob/master/images/Rough_concept.jpg?raw=true)
+![Rough concept](https://github.com/LEA-Blockchain/whitepaper/blob/main/images/Rough_concept.jpg?raw=true)
 
 Figure 2 LEA Concept of Bridging RWAs with Blockchain Technology
 
@@ -195,7 +195,7 @@ This holistic approach establishes LEA as a decentralized, community-governed ec
 
 # Market Opportunity
 
-![RWA Markets until 2030](https://github.com/aaflux-llc/lea_test/blob/master/images/market_opportunity.jpg?raw=true)
+![RWA Markets until 2030](https://github.com/LEA-Blockchain/whitepaper/blob/main/images/market_opportunity.jpg?raw=true)
 
 Figure 3: Forecasted market size of real-world asset tokenization in several industries, including real estate, from 2023 to 2030 <sup>\[1\]</sup>
 
@@ -332,7 +332,7 @@ LEA's tokenomics model is designed to promote long-term sustainability, communit
 
 - **Total Supply:** 100,000,000,000 tokens
 
-![Token distribution](https://github.com/aaflux-llc/lea_test/blob/master/images/token_distribution.jpg?raw=true)
+![Token distribution](https://github.com/LEA-Blockchain/whitepaper/blob/main/images/token_distribution.jpg?raw=true)
 
 The distribution is structured as follows:
 
@@ -420,14 +420,14 @@ Solana is a high-performance, decentralized blockchain platform known for its sp
 **Why Solana?**
 
 1. **Solana processes transactions in parallel**, using its **Sealevel** runtime.
-![Solana Transactions per second](https://github.com/aaflux-llc/lea_test/blob/master/images/table_solana_transactions_per_seond.jpg?raw=true)
+![Solana Transactions per second](https://github.com/LEA-Blockchain/whitepaper/blob/main/images/table_solana_transactions_per_seond.jpg?raw=true)
 
 2. **Solana fees are a fraction of a cent**, making it ideal for microtransactions, DeFi, and NFTs.
-![Solana Average Transaction Fees](https://github.com/aaflux-llc/lea_test/blob/master/images/table_solana_avg_transactions_fee.jpg?raw=true)
+![Solana Average Transaction Fees](https://github.com/LEA-Blockchain/whitepaper/blob/main/images/table_solana_avg_transactions_fee.jpg?raw=true)
 
 3. Solana **scales natively** without relying on **Layer 2 solutions** like Ethereum (Polygon, Arbitrum).
 4. **Solana’s Proof of Stake (PoS) is extremely energy-efficient**.
-![Solana Energy Consumption per Transaction](https://github.com/aaflux-llc/lea_test/blob/master/images/table_solana_energy_per_transaction.jpg?raw=true)
+![Solana Energy Consumption per Transaction](https://github.com/LEA-Blockchain/whitepaper/blob/main/images/table_solana_energy_per_transaction.jpg?raw=true)
 
 5. Solana allows **parallel execution** of smart contracts (**Ethereum processes one at a time**).
 
