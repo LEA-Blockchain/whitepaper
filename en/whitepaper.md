@@ -374,14 +374,14 @@ Tokens allocated for Investors and Strategic Partners are distributed across str
 
 **Pre-seed Rounds:**
 
-- Batch 1: 1.5B tokens at $0.000001/token
-- Batch 2: 2B tokens at $0.000003/token
-- Batch 3: 2B tokens at $0.000005/token
-- Batch 4: 500M tokens at $0.000008/token
+- Batch 1: 1.5B tokens at $0.0001/token
+- Batch 2: 2B tokens at $0.0003/token
+- Batch 3: 2B tokens at $0.0005/token
+- Batch 4: 500M tokens at $0.0008/token
 
 **Series A:**
 
-- 4B tokens at $0.00001/token
+- 4B tokens at $0.001/token
 
 These rounds target early supporters, strategic investors, and institutional investors who align with the long-term vision of LEA.
 
