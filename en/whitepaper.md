@@ -68,7 +68,7 @@ LEA’s token economy is designed for long-term sustainability, market confidenc
 - **20%** – DAO Treasury
 - **20%** – Community & Ecosystem Growth
 - **10%** – Team & Founders (4-year vesting with 1-year cliff)
-- **10%** – Investors & Strategic Partners (4-year vesting with 6-month cliff)
+- **10%** – Investors & Strategic Partners
 - **5%** – Liquidity Pools
 - **5%** – Reserve Fund
 
@@ -341,7 +341,7 @@ The distribution is structured as follows:
 | **DAO Treasury** | 20% | 20,000,000,000 | Funding DAO operations, community incentives, ecosystem growth, and RWA project investments. Gradually unlocked based on DAO governance and funding milestones. |
 | **Staking Rewards** | 30% | 30,000,000,000 | Incentivizing staking and active participation. Gradually distributed based on staking participation. |
 | **Team and Founders** | 10% | 10,000,000,000 | Allocated to team and advisors with a structured 4-year vesting period and 1-year cliff. |
-| **Investors and Strategic Partners** | 10% | 10,000,000,000 | Supporting early-stage and strategic investors, vested over 4 years with a 6-month cliff to align incentives. |
+| **Investors and Strategic Partners** | 10% | 10,000,000,000 | Supporting early-stage and strategic investors|
 | **Community and Ecosystem Growth** | 20% | 20,000,000,000 | Used for community incentives, airdrops, governance participation, and ecosystem adoption. Gradual unlock based on achieved milestones. |
 | **Liquidity Pools** | 5%  | 5,000,000,000 | Ensuring market liquidity, gradually unlocked based on market needs. |
 | **Reserve Fund** | 5%  | 5,000,000,000 | Reserved for operational expenses, unforeseen events, and special community rewards. Released gradually based on project needs. |
@@ -392,10 +392,6 @@ To ensure long-term alignment and mitigate volatility:
 **Team and Founders:**
 
 - 4-year vesting with a 1-year cliff (25% unlocked after year 1, then incremental unlocks annually).
-
-**Investors and Strategic Partners:**
-
-- 4-year vesting with a 6-month cliff (40% unlocked after 6 months, then incremental unlocks annually).
 
 **Community and Ecosystem:**
 
