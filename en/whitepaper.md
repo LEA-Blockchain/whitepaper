@@ -370,20 +370,18 @@ Through these strategic decisions, LEA’s tokenomics ensures sustainability, ro
 
 ## Token Sale and Investment Rounds
 
-Tokens allocated for Investors and Strategic Partners are distributed across structured funding rounds:
+Tokens allocated for Investors and Strategic Partners will be distributed during a structured Seed Phase governed by a bonding curve model.
 
-**Pre-seed Rounds:**
+**Pricing Model:**
 
-- Batch 1: 1.5B tokens at $0.0001/token
-- Batch 2: 2B tokens at $0.0003/token
-- Batch 3: 2B tokens at $0.0005/token
-- Batch 4: 500M tokens at $0.0008/token
+Rather than fixed prices in batches, the token price will follow a bonding curve mechanism, gradually increasing as more tokens are sold. This dynamic pricing model ensures early supporters are rewarded with lower entry prices while aligning capital raised with the project’s growth trajectory.
 
-**Series A:**
+- Starting Price: $0.0001 per token
+- Seed Phase Cap: Up to 10 billion tokens sold
+- Pricing Mechanism: Bonding curve — token price increases as tokens are purchased
+- Purpose: This model provides price discovery, incentivizes early participation, and ensures sustainable capital inflow for development
 
-- 4B tokens at $0.001/token
-
-These rounds target early supporters, strategic investors, and institutional investors who align with the long-term vision of LEA.
+This approach offers a flexible, market-aligned token issuance strategy that reflects real-time demand and community growth.
 
 ## Vesting Schedules
 
