@@ -2,7 +2,7 @@
 
 Whitepaper
 
-V1.0 - Update: 2025-03-31
+V1.1 - Update: 2025-07-01
 
 Table of Contents
 - [Executive Summary](#executive-summary)
