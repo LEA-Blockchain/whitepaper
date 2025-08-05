@@ -1,0 +1,25 @@
+title: "The LEA Blockchain: A Whitepaper"
+description: "A comprehensive technical overview of the LEA blockchain, a next-generation Layer 1 protocol designed for modularity, security, and verifiable state compression."
+theme: just-the-docs
+baseurl: ""
+url: "https://whitepaper.getlea.org"
+
+# Optional: GitHub Pages settings
+repository: LEA-Blockchain/whitepaper
+
+# Navigation settings
+nav_sort: case_insensitive
+
+# Enable search
+search_enabled: true
+search_tokenizer_separator: /[\s/]+/
+
+# Optional: set color scheme
+color_scheme: light
+
+# Optional: footer
+footer_content: "© 2025 LEA Foundation"
+
+# Show last modified date
+last_edit_timestamp: true
+last_edit_time_format: "%b %d, %Y"
