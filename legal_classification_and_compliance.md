@@ -28,3 +28,8 @@ The regulatory landscape for digital assets is evolving. Future regulations may 
 This whitepaper does not constitute investment advice, a prospectus, or an offer of securities in any jurisdiction. The purchase of $LEA involves significant risk, and potential purchasers should consult with their own legal, financial, and tax advisors.
 
 Any POD that issues asset-backed or regulated tokens will do so independently, in compliance with applicable regulations, and these tokens will be **technically and legally separate** from $LEA.
+
+<div class="nav-buttons">
+  <a class="prev" href="/team/">← Team & Contributors</a>
+  <a class="next" href="/risk_factors/">Risk Factors →</a>
+</div>

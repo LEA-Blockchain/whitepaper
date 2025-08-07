@@ -52,3 +52,8 @@ With the core protocol decentralized, the focus will shift to fostering a thrivi
 -   **[Future] Inter-POD Composability Frameworks:** Developing standards and tools to facilitate safe and efficient communication between different PODs.
 
 *Goal: To transition LEA from a protocol into a self-sustaining, community-governed, and ever-expanding ecosystem of sovereign domains.*
+
+<div class="nav-buttons">
+  <a class="prev" href="/competitive_positioning/">← Competitive Positioning</a>
+  <a class="next" href="/team/">Team & Contributors →</a>
+</div>

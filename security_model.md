@@ -66,3 +66,8 @@ This all-or-nothing approach guarantees that validators are compensated for vali
 ## Replay Protection via Signature Chaining
 
 As detailed in the Transaction Lifecycle chapter, LEA's primary replay protection mechanism is the `prev_tx_hash` field. By requiring each transaction to reference the hash of the last valid transaction for that account, the protocol ensures a strict, verifiable ordering. A transaction captured by a malicious actor cannot be replayed because its `prev_tx_hash` will no longer match the `latest_tx_hash` stored on the sender's account, causing the Decoder to reject it.
+
+<div class="nav-buttons">
+  <a class="prev" href="/state_and_verification/">← State and Verification</a>
+  <a class="next" href="/fee_and_governance/">Fee and Governance →</a>
+</div>

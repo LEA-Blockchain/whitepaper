@@ -25,3 +25,8 @@ With over a decade of experience in cybersecurity and systems engineering, Allwi
 LEA is a community-driven project and is actively collaborating with a growing network of advisors, ecosystem partners, and independent contributors. Our philosophy is to build in the open, leveraging the collective expertise of the broader blockchain community to refine, test, and secure the protocol.
 
 We welcome contributions in all forms, from submitting LEA Improvement Proposals (LIPs) and developing open-source POD templates to participating in security reviews and building core developer tools. The future of LEA will be shaped by the builders and users who make up its vibrant ecosystem.
+
+<div class="nav-buttons">
+  <a class="prev" href="/roadmap/">← Roadmap</a>
+  <a class="next" href="/legal_classification_and_compliance/">Legal Classification and Compliance →</a>
+</div>

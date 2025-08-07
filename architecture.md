@@ -66,3 +66,8 @@ The process is as follows:
 5.  If the handshake is approved, the VM proceeds to execute the call. If it is denied, the transaction fails before any state is changed.
 
 This model preserves the sovereignty and security of each POD, allowing them to define their own interaction policies, while still enabling the powerful, atomic composability that is essential for a rich DeFi and Web3 ecosystem.
+
+<div class="nav-buttons">
+  <a class="prev" href="/introduction/">← Introduction</a>
+  <a class="next" href="/transaction_lifecycle/">Transaction Lifecycle →</a>
+</div>

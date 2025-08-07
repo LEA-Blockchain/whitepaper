@@ -39,3 +39,8 @@ The $LEA Coin is a **utility coin** intended solely for use within the LEA block
 - $LEA is **not** redeemable for cash or other assets from the LEA Foundation or any third party.
 
 All coin sales will be conducted in compliance with applicable regulations, including KYC/AML procedures, and will exclude sanctioned jurisdictions.
+
+<div class="nav-buttons">
+  <a class="prev" href="/fee_and_governance/">← Fee and Governance</a>
+  <a class="next" href="/programmable_object_domains/">Programmable Object Domains →</a>
+</div>

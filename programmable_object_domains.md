@@ -78,3 +78,7 @@ An external blockchain or Layer 2 network can use LEA as its consensus and data 
 
 These examples demonstrate that LEA is not a single-purpose blockchain but a true meta-layer protocol—a secure and decentralized foundation upon which countless sovereign digital domains can be built.
 
+<div class="nav-buttons">
+  <a class="prev" href="/tokenomics/">← Tokenomics</a>
+  <a class="next" href="/developer_ecosystem/">Developer Ecosystem →</a>
+</div>

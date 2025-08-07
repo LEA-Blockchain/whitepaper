@@ -56,3 +56,8 @@ Governance on LEA operates on two distinct levels:
     - **Mechanism:** Implemented entirely within the POD's smart contracts. A POD could use a simple multi-sig, a complex DAO with token-weighted voting, or have no governance at all (i.e., be an immutable contract).
 
 This dual structure ensures that the core protocol remains stable and secure under the stewardship of $LEA stakeholders, while individual applications (PODs) retain the autonomy to innovate and govern themselves as they see fit.
+
+<div class="nav-buttons">
+  <a class="prev" href="/security_model/">← Security Model</a>
+  <a class="next" href="/tokenomics/">Tokenomics →</a>
+</div>

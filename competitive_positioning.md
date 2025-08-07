@@ -79,3 +79,8 @@ Many blockchains remain dependent on pre‑quantum cryptography, exposing them t
 ---
 
 By addressing these challenges head‑on, LEA positions itself as the foundational blockchain for a future where developers can innovate without friction, ecosystems can scale without compromise, and security is never an afterthought.
+
+<div class="nav-buttons">
+  <a class="prev" href="/developer_ecosystem/">← Developer Ecosystem</a>
+  <a class="next" href="/roadmap/">Roadmap →</a>
+</div>

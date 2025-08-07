@@ -1,3 +1,8 @@
+---
+layout: default
+title: LEA Whitepaper (EN)
+---
+
 # The LEA Blockchain: A Whitepaper
 
 This document provides a comprehensive technical overview of the LEA blockchain, a next-generation Layer 1 protocol designed for modularity, security, and verifiable state compression.
@@ -65,6 +70,11 @@ This document provides a comprehensive technical overview of the LEA blockchain,
 
 16. [**Glossary**](./glossary.md)
     - Definitions of key technical terms used in the whitepaper.
+
+
+<div class="nav-buttons">
+  <a class="next" href="/abstract/">Start →</a>
+</div>
 
 ## License
 

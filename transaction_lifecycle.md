@@ -93,3 +93,8 @@ After a transaction is successfully executed, the client that submitted it recei
 -   **Strictly Limited:** To prevent abuse, the total size of the `execution_result` is capped at 64 KB. If a transaction attempts to return more data than this, the entire transaction is rejected.
 
 This mechanism provides a highly efficient way for smart contracts to communicate information back to the end-user, completing the transaction lifecycle.
+
+<div class="nav-buttons">
+  <a class="prev" href="/architecture/">← Architecture</a>
+  <a class="next" href="/state_and_verification/">State and Verification →</a>
+</div>

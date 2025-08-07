@@ -43,3 +43,8 @@ A list of key terms and concepts central to the LEA blockchain architecture.
 -   **zk-STARK (Zero-Knowledge Scalable Transparent Argument of Knowledge)**
     -   A type of cryptographic proof system that allows one party to prove the integrity of a computation to another without revealing the underlying data. LEA uses STARKs for verifiable state compression.
     
+
+<div class="nav-buttons">
+  <a class="prev" href="/risk_factors/">← Risk Factors</a>
+  <a class="next" href="/">End (Back to Overview)</a>
+</div>

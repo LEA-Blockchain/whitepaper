@@ -12,3 +12,8 @@
 | 8  | **Liquidity & Tokenomics Risk** – Insufficient liquidity, token unlock events causing sell pressure. | Medium | Price instability, reduced investor confidence. | Vesting schedules, liquidity pool incentives, treasury-backed market support. |
 | 9  | **Third-Party & Dependency Risk** – Reliance on external oracles, APIs, or unaudited Decoders. | Medium | Service disruption, data manipulation, user loss. | Tiered Decoder Registry, whitelisted oracle providers, mandatory audits for high-impact Decoders. |
 | 10 | **Force Majeure Risk** – Global crises, cyber warfare, or large-scale network outages beyond project control. | Low | Severe operational disruption. | Disaster recovery plans, distributed team operations, geographic validator diversity. |
+
+<div class="nav-buttons">
+  <a class="prev" href="/legal_classification_and_compliance/">← Legal Classification and Compliance</a>
+  <a class="next" href="/glossary/">Glossary →</a>
+</div>

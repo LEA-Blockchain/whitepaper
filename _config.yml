@@ -3,7 +3,7 @@ description: "A comprehensive technical overview of the LEA blockchain, a next-g
 theme: just-the-docs
 baseurl: ""
 url: "https://whitepaper.getlea.org"
-
+permalink: pretty
 # Optional: GitHub Pages settings
 repository: LEA-Blockchain/whitepaper
 

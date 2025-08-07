@@ -27,3 +27,9 @@ LEA is built for longevity. The combination of a programmable transaction format
 LEA solves the state bloat problem without compromising on data availability. All final contract states are preserved on-chain. However, the history of dormant contracts is cryptographically compressed into a single **zk-STARK proof**. This allows new nodes to verify the integrity of the entire chain's history instantly, making synchronization orders of magnitude more efficient while ensuring anyone can still reconstruct state from the on-chain data.
 
 By adhering to these principles, LEA provides a platform that is not just another blockchain, but a true substrate for building the next generation of decentralized systems.
+
+
+<div class="nav-buttons">
+  <a class="prev" href="/abstract/">← Abstract</a>
+  <a class="next" href="/architecture/">Architecture →</a>
+</div>

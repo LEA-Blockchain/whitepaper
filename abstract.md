@@ -5,3 +5,8 @@ The LEA blockchain introduces a paradigm shift in Layer 1 protocol design by rad
 LEA's core innovation lies in its treatment of state and history. While all contract state is retained on-chain to ensure data availability, the protocol uses **zk-STARKs** to compress the *verification* of dormant contract histories. This allows new nodes to sync and validate the entire state of the network with cryptographic certainty, without re-executing every historical transaction. This "verifiable state compression" model provides extreme scalability and efficiency while avoiding the data availability pitfalls of traditional state-pruning systems.
 
 Transactions on LEA are linked via a per-account **signature chain**, providing inherent replay protection and a verifiable audit trail. This, combined with a native account abstraction model that separates permanent addresses from updatable on-chain keys, allows for post-quantum cryptographic agility and sophisticated key recovery mechanisms to be implemented at the application layer. By minimizing the base protocol's responsibilities to ordering and dispatching, LEA creates a future-proof foundation for permissionless innovation, supporting a diverse ecosystem of interoperable or isolated domains, from regulated finance to anonymous digital economies.
+
+<div class="nav-buttons">
+  <a class="prev" href="/">← Overview</a>
+  <a class="next" href="/introduction/">Introduction →</a>
+</div>

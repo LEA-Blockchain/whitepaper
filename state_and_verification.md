@@ -78,3 +78,8 @@ To incentivize good "garbage collection," LEA offers a **Closure Rebate**. If a 
 When a new transaction is sent to a hibernated contract, the protocol will require the sender to pay the outstanding rent debt. Once paid, the state is automatically restored from the archive, the contract becomes fully active again, and the transaction proceeds. This ensures that no contract is ever permanently lost, while maintaining a strong economic incentive to keep the active state set clean and efficient.
 
 This model provides the best of both worlds: the immense storage and computational savings of a zk-rollup, combined with the data availability and security guarantees of a traditional Layer 1 blockchain.
+
+<div class="nav-buttons">
+  <a class="prev" href="/transaction_lifecycle/">← Transaction Lifecycle</a>
+  <a class="next" href="/security_model/">Security Model →</a>
+</div>

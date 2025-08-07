@@ -63,3 +63,8 @@ To foster a secure and composable developer ecosystem, LEA will introduce the **
 -   **Namespace Governance:** Critical package names will be governed by the LEA Foundation or a DAO to prevent typosquatting and hijacking.
 
 By building a package manager on a foundation of on-chain trust, `lpm` will empower developers to build complex applications safely and efficiently, accelerating the growth of the entire LEA ecosystem.
+
+<div class="nav-buttons">
+  <a class="prev" href="/programmable_object_domains/">← Programmable Object Domains</a>
+  <a class="next" href="/competitive_positioning/">Competitive Positioning →</a>
+</div>
