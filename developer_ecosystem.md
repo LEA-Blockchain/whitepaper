@@ -66,5 +66,6 @@ By building a package manager on a foundation of on-chain trust, `lpm` will empo
 
 <div class="nav-buttons">
   <a class="prev" href="/programmable_object_domains/">← Programmable Object Domains</a>
+  <a class="toc" href="/">Table Of Contents</a>
   <a class="next" href="/competitive_positioning/">Competitive Positioning →</a>
 </div>

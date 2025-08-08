@@ -80,5 +80,6 @@ These examples demonstrate that LEA is not a single-purpose blockchain but a tru
 
 <div class="nav-buttons">
   <a class="prev" href="/tokenomics/">← Tokenomics</a>
+  <a class="toc" href="/">Table Of Contents</a>
   <a class="next" href="/developer_ecosystem/">Developer Ecosystem →</a>
 </div>

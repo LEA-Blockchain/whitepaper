@@ -42,5 +42,6 @@ All coin sales will be conducted in compliance with applicable regulations, incl
 
 <div class="nav-buttons">
   <a class="prev" href="/fee_and_governance/">← Fee and Governance</a>
+  <a class="toc" href="/">Table Of Contents</a>
   <a class="next" href="/programmable_object_domains/">Programmable Object Domains →</a>
 </div>

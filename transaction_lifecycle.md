@@ -96,5 +96,6 @@ This mechanism provides a highly efficient way for smart contracts to communicat
 
 <div class="nav-buttons">
   <a class="prev" href="/architecture/">← Architecture</a>
+  <a class="toc" href="/">Table Of Contents</a>
   <a class="next" href="/state_and_verification/">State and Verification →</a>
 </div>

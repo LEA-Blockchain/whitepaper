@@ -46,5 +46,6 @@ A list of key terms and concepts central to the LEA blockchain architecture.
 
 <div class="nav-buttons">
   <a class="prev" href="/risk_factors/">← Risk Factors</a>
+  <a class="toc" href="/">Table Of Contents</a>
   <a class="next" href="/">End (Back to Overview)</a>
 </div>

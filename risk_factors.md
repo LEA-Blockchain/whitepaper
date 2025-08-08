@@ -15,5 +15,6 @@
 
 <div class="nav-buttons">
   <a class="prev" href="/legal_classification_and_compliance/">← Legal Classification and Compliance</a>
+  <a class="toc" href="/">Table Of Contents</a>
   <a class="next" href="/glossary/">Glossary →</a>
 </div>

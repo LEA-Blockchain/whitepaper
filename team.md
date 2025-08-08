@@ -28,5 +28,6 @@ We welcome contributions in all forms, from submitting LEA Improvement Proposals
 
 <div class="nav-buttons">
   <a class="prev" href="/roadmap/">← Roadmap</a>
+  <a class="toc" href="/">Table Of Contents</a>
   <a class="next" href="/legal_classification_and_compliance/">Legal Classification and Compliance →</a>
 </div>

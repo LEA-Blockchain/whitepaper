@@ -69,5 +69,6 @@ This model preserves the sovereignty and security of each POD, allowing them to 
 
 <div class="nav-buttons">
   <a class="prev" href="/introduction/">← Introduction</a>
+  <a class="toc" href="/">Table Of Contents</a>
   <a class="next" href="/transaction_lifecycle/">Transaction Lifecycle →</a>
 </div>

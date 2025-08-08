@@ -31,5 +31,6 @@ By adhering to these principles, LEA provides a platform that is not just anothe
 
 <div class="nav-buttons">
   <a class="prev" href="/abstract/">← Abstract</a>
+  <a class="toc" href="/">Table Of Contents</a>
   <a class="next" href="/architecture/">Architecture →</a>
 </div>

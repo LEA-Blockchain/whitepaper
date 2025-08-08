@@ -69,5 +69,6 @@ As detailed in the Transaction Lifecycle chapter, LEA's primary replay protectio
 
 <div class="nav-buttons">
   <a class="prev" href="/state_and_verification/">← State and Verification</a>
+  <a class="toc" href="/">Table Of Contents</a>
   <a class="next" href="/fee_and_governance/">Fee and Governance →</a>
 </div>

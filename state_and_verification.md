@@ -81,5 +81,6 @@ This model provides the best of both worlds: the immense storage and computation
 
 <div class="nav-buttons">
   <a class="prev" href="/transaction_lifecycle/">← Transaction Lifecycle</a>
+  <a class="toc" href="/">Table Of Contents</a>
   <a class="next" href="/security_model/">Security Model →</a>
 </div>

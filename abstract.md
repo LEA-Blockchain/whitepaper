@@ -8,5 +8,6 @@ Transactions on LEA are linked via a per-account **signature chain**, providing 
 
 <div class="nav-buttons">
   <a class="prev" href="/">← Overview</a>
+  <a class="toc" href="/">Table Of Contents</a>
   <a class="next" href="/introduction/">Introduction →</a>
 </div>

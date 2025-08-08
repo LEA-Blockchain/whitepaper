@@ -59,5 +59,6 @@ This dual structure ensures that the core protocol remains stable and secure und
 
 <div class="nav-buttons">
   <a class="prev" href="/security_model/">← Security Model</a>
+  <a class="toc" href="/">Table Of Contents</a>
   <a class="next" href="/tokenomics/">Tokenomics →</a>
 </div>

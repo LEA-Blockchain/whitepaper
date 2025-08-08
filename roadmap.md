@@ -55,5 +55,6 @@ With the core protocol decentralized, the focus will shift to fostering a thrivi
 
 <div class="nav-buttons">
   <a class="prev" href="/competitive_positioning/">← Competitive Positioning</a>
+  <a class="toc" href="/">Table Of Contents</a>
   <a class="next" href="/team/">Team & Contributors →</a>
 </div>

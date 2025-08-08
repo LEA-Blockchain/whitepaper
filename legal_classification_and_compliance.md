@@ -31,5 +31,6 @@ Any POD that issues asset-backed or regulated tokens will do so independently, i
 
 <div class="nav-buttons">
   <a class="prev" href="/team/">← Team & Contributors</a>
+  <a class="toc" href="/">Table Of Contents</a>
   <a class="next" href="/risk_factors/">Risk Factors →</a>
 </div>

@@ -73,7 +73,8 @@ This document provides a comprehensive technical overview of the LEA blockchain,
 
 
 <div class="nav-buttons">
-  <a class="next" href="/abstract/">Start →</a>
+    <a class="prev toc" href="https://getlea.org">Back to getlea.org</a>
+    <a class="next" href="/abstract/">Start →</a>
 </div>
 
 ## License

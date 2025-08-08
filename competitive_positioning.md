@@ -82,5 +82,6 @@ By addressing these challenges head‑on, LEA positions itself as the foundation
 
 <div class="nav-buttons">
   <a class="prev" href="/developer_ecosystem/">← Developer Ecosystem</a>
+  <a class="toc" href="/">Table Of Contents</a>
   <a class="next" href="/roadmap/">Roadmap →</a>
 </div>
